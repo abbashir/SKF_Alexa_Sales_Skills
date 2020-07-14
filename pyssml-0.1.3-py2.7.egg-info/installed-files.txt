@@ -1,0 +1,10 @@
+../pyssml/__init__.py
+../pyssml/PySSML.py
+../pyssml/AmazonSpeech.py
+../pyssml/__init__.pyc
+../pyssml/PySSML.pyc
+../pyssml/AmazonSpeech.pyc
+top_level.txt
+PKG-INFO
+dependency_links.txt
+SOURCES.txt
